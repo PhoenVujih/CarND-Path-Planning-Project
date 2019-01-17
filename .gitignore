@@ -1,0 +1,6 @@
+/build
+.vscode
+term3_sim_linux
+set_git.sh
+install-mac.sh
+install-ubuntu.sh
